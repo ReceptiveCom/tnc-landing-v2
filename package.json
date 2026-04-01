@@ -12,7 +12,7 @@
     "url": "git+https://github.com/ReceptiveCom/tnc-landing-v2.git"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^13.1.6",
-    "astro": "^6.1.2"
+    "@astrojs/cloudflare": "^12.5.0",
+    "astro": "^5.7.10"
   }
 }
